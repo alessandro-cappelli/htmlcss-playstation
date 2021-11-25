@@ -1,0 +1,28 @@
+.ms_contain_img{
+    height: 30px;
+}
+
+.logo_sony{
+    width: 100%;
+}
+
+.ms_dropdown{
+    width: 100%;
+}
+
+.ms_bottom_accedi{
+    background-color: black;
+    color: white;
+}
+
+.ms_color_dropdown{
+    color: black;
+}
+
+/* main */
+/* returnal */
+.ms_contain_returnal{
+    background-image: url(img/jumbo-bg.png);
+    background-size: cover;
+    height: 500px;
+}
