@@ -107,7 +107,22 @@
     width: 100%;
 }
 
-.ms_container_accessories{
-    width: 90%;
-    margin: 0 auto;
+
+/* it takes two */
+.ms_contain_it_takes_two{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    height: 700px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.ms_title_it_takes_two{
+    font-size: 50px;
+}
+
+.ms_img_title_it_takes_two{
+    width: 100%;
 }
