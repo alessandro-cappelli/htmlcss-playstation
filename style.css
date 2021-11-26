@@ -51,6 +51,13 @@
     border-radius: 15px;
 }
 
- .img_contain{
+.img_contain:hover{
     cursor: pointer;
+    border: 2px solid blue;
+    border-radius: 20px;
+}
+
+.img_contain1{
+    border: 2px solid blue;
+    border-radius: 20px;
 }
