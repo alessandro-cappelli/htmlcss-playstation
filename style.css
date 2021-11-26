@@ -25,4 +25,16 @@
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
     height: 500px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.ms_title_returnal{
+    font-size: 50px;
+}
+
+.ms_img_title_returnal{
+    width: 100%;
 }
