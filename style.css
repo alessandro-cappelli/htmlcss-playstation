@@ -45,3 +45,12 @@
 .ms_img_title_returnal{
     width: 100%;
 }
+/* colonne sotto */
+.img_size{
+    width: 100%;
+    border-radius: 15px;
+}
+
+ .img_contain{
+    cursor: pointer;
+}
