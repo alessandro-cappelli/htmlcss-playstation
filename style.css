@@ -1,11 +1,20 @@
-.ms_contain_img{
-    height: 30px;
+/* logo sony */
+.sm_container_fluid{
+    display: flex;
+    justify-content: flex-end;
 }
 
-.logo_sony{
+.logo_sony_img{
     width: 100%;
+    height: 15px;
 }
 
+
+
+
+
+
+/* navbar */
 .ms_dropdown{
     width: 100%;
 }
