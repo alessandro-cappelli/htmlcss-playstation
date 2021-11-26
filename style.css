@@ -112,9 +112,8 @@
 .ms_contain_it_takes_two{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
-    height: 700px;
+    
     color: white;
-    display: flex;
     flex-direction: column;
     justify-content: end;
 }
