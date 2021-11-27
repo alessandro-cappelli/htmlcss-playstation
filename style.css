@@ -112,10 +112,10 @@
 .ms_contain_it_takes_two{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
-    
     color: white;
     flex-direction: column;
     justify-content: end;
+    width: 100%;
 }
 
 .ms_title_it_takes_two{
@@ -124,4 +124,15 @@
 
 .ms_img_title_it_takes_two{
     width: 100%;
+}
+
+
+/* nuove uscite */
+.ms_contain_nuove_uscite{
+    color: white;
+}
+
+.img_size_nuove_uscite{
+    width: 100%;
+    border-radius: 40px;
 }
