@@ -168,3 +168,16 @@
 
 
 /* ps now */
+.ms_contain_playstation_now{
+    background-color: #161C3B;
+    color: white;
+}
+
+.ms_row_ps_now{
+    align-items: center;
+}
+
+.img_logo_ps_now,
+.ms_img_playstation_now{
+    width: 100%;
+}
