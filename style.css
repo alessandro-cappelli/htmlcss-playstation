@@ -147,3 +147,15 @@
 .ms_contain_playstation_plus{
     background-color: #BEBCBB;
 }
+
+.ms_row_ps_plus{
+    align-items: center;
+}
+
+.ms_img_playstation_plus{
+    width: 100%;
+}
+
+.img_logo_ps_plus{
+    width: 100%;
+}
