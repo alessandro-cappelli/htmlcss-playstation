@@ -31,11 +31,10 @@
 .ms_contain_returnal{
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
-    height: 500px;
     color: white;
-    display: flex;
     flex-direction: column;
     justify-content: end;
+    width: 100%;
 }
 
 .ms_title_returnal{
