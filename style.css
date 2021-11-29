@@ -25,6 +25,11 @@
     color: black;
 }
 
+.ms_dropdown{
+    width: 100vw;
+    left: -100%;
+}
+
 
 /* main */
 /* returnal */
