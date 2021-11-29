@@ -30,19 +30,29 @@
 /* returnal */
 .ms_contain_returnal{
     background-image: url(img/jumbo-bg.png);
+    background-position: center;
     background-size: cover;
     color: white;
     flex-direction: column;
     justify-content: end;
     width: 100%;
+    margin-top: 87px;
 }
 
+.ms_contain_img_logo_returnal{
+    margin-top: 351px;
+}
 .ms_title_returnal{
     font-size: 50px;
 }
 
 .ms_img_title_returnal{
     width: 100%;
+}
+
+.ms_color_button .btn-primary{
+    background-color: #CD3D0F;
+    border: #CD3D0F;
 }
 /* colonne sotto */
 .img_size{
@@ -110,6 +120,7 @@
 /* it takes two */
 .ms_contain_it_takes_two{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
     background-size: cover;
     color: white;
     flex-direction: column;
@@ -159,6 +170,12 @@
     width: 100%;
 }
 
+.ms_button_color_plus .btn-primary{
+    background-color: #CCCCCC;
+    color: #2D64E6;
+    border: #CCCCCC;
+}
+
 
 /* sconti ps store */
 .img_size_sconti_ps_store{
@@ -179,6 +196,12 @@
 .img_logo_ps_now,
 .ms_img_playstation_now{
     width: 100%;
+}
+
+.ms_button_color_now .btn-primary{
+    background-color: #CCCCCC;
+    color: black;
+    border: #CCCCCC;
 }
 
 
