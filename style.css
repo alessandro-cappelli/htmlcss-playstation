@@ -210,3 +210,28 @@
     width: 100%;
     cursor: pointer;
 }
+
+
+/* footer */
+.ms_contain_footer{
+    background-color: #00439C;
+    color: white;
+}
+
+.ms_row_globe{
+    align-items: center;
+}
+
+
+.ms_img_globe, .ms_img_sie_logo{
+    width: 100%;
+}
+
+.ms_contain_link div ul{
+    list-style-type: none;
+}
+
+.ms_contain_link div ul li a{
+    text-decoration: none;
+    color: white;
+}
