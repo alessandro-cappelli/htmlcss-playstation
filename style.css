@@ -181,3 +181,10 @@
 .ms_img_playstation_now{
     width: 100%;
 }
+
+
+/* social */
+.img_size_social{
+    width: 100%;
+    cursor: pointer;
+}
